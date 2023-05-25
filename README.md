@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RazvanCretu
-- 👀 I’m interested in Python, Web Development, Data analysis and remote jobs only.
-- 🌱 I’m currently learning Strapi and Next.js/React
+- 👀 I’m interested in Web Development, Data Engineering and remote jobs only.
+- 🌱 I’m currently learning Strapi and React/Next.js
 - 💞️ I’m looking to collaborate on awesome Open Source projects.
 - 📫 You can find me at razvan.cretu97@gmail.com
 
