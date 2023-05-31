@@ -1,10 +1,10 @@
 # Bio
 
-👋 I'm a self-taught Data and Software Engineer. What defines me is using my passion,
+👋 I'm a self-taught Data and Software Engineer with 4 years of experience. What defines me is using my passion,
 skills and experience along with the ability to learn fast in order to bring quality results to
 the table.
-I'm currently looking for a career reconversion into Web Development as I've developed
-a passion for it in my previous role.
+
+I'm currently looking for a career reconversion into Web Development.
 
 - 👋 Hi, I’m @RazvanCretu
 - 👀 I’m interested in Web Development, Data Engineering and remote jobs only.
