@@ -17,7 +17,7 @@ I'm currently looking for a career reconversion into Web Development.
 <!-- **Programming Langauges:** -->
 
 <a href="https://www.python.org/">
-    <img height="50" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" />
+    <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
