@@ -24,52 +24,52 @@ I'm currently looking for a career reconversion into Web Development.
 <!-- **Programming Langauges:** -->
 
 <a href="https://www.python.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
 </a>
 <a href="https://react.dev/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
 </a>
 <a href="https://redux.js.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" />
 </a>
 <a href="https://nextjs.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" />
 </a>
 <a href="https://nodejs.org/en">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" />
 </a>
 <a href="https://www.electronjs.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" />
 </a>
 <a href="https://graphql.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" />
 </a>
 <a href="https://www.mysql.com/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" />
 </a>
 <a href="https://www.postgresql.org/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
 </a>
 <a href="https://github.com/RazvanCretu">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" />
 </a>
 <a href="https://www.docker.com/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" />
 </a>
 <a href="https://heroku.com/)">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" />
 </a>
 <a href="https://aws.amazon.com/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" />
 </a>
 <a href="https://code.visualstudio.com/">
-    <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
 </a>
 <a href="https://www.anaconda.com/">
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" />
+  <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" />
 </a>
 
 ## Let's connect
