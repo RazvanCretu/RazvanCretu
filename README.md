@@ -65,6 +65,25 @@ I'm currently looking for a career reconversion into Web Development.
     <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" />
 </a>
 
+# Let's connect
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.linkedin.com/in/creturazvan/">
+                    <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+                </a>
+            </td>
+            <td>
+                <a href="https://open.spotify.com/user/3jh0qw4ntru8if9moesji6mec">
+                    <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <!---
 RazvanCretu/RazvanCretu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
