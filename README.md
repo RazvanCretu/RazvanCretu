@@ -11,7 +11,7 @@ I'm a self-taught Web Developer and Data Engineer with 4 years of experience. Wh
 skills and experience along with the ability to learn fast in order to bring quality results to
 the table.
 
-I'm currently looking for a career reconversion into Web Development.
+👀 Currently looking for a career reconversion into Web Development.
 
 <!-- - 👋 Hi, I’m @RazvanCretu
 - 👀 I’m interested in Web Development, Data Engineering and remote jobs only.
