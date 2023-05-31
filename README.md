@@ -1,6 +1,13 @@
-# Bio
+<h1 align="center">
+  👋 I'm Razvan
+</h1>
+<h3 align="center">
+  Web Developer / Data Engineer
+</h3>
 
-👋 I'm a self-taught Data and Software Engineer with 4 years of experience. What defines me is using my passion,
+## Bio
+
+I'm a self-taught Web Developer and Data Engineer with 4 years of experience. What defines me is using my passion,
 skills and experience along with the ability to learn fast in order to bring quality results to
 the table.
 
@@ -12,7 +19,7 @@ I'm currently looking for a career reconversion into Web Development.
 - 💞️ I’m looking to collaborate on awesome Open Source projects.
 - 📫 You can find me at razvan.cretu97@gmail.com -->
 
-# Technologies
+## Technologies
 
 <!-- **Programming Langauges:** -->
 
@@ -37,8 +44,6 @@ I'm currently looking for a career reconversion into Web Development.
 <a href="https://www.electronjs.org/">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" />
 </a>
-
-
 <a href="https://graphql.org/">
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" />
 </a>
@@ -67,7 +72,7 @@ I'm currently looking for a career reconversion into Web Development.
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" />
 </a>
 
-# Let's connect
+## Let's connect
 
 <table>
   <tbody>
