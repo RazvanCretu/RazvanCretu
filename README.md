@@ -1,17 +1,22 @@
-<h1 align="center">
-  👋 I'm Razvan
-</h1>
-<h3 align="center">
-  Web Developer / Data Engineer
-</h3>
+<div align="center">
+  <h1>
+    👋 I'm Razvan
+  </h1>
+  <h3>
+    Web Developer / Data Engineer
+  </h3>
+</div>
 
 ## Bio
 
-I'm a self-taught Web Developer and Data Engineer with 4 years of experience. What defines me is using my passion,
-skills and experience along with the ability to learn fast in order to bring quality results to
-the table.
-
-👀 Currently looking for a career reconversion into Web Development.
+<div align="center">
+  I'm a self-taught Web Developer and Data Engineer with 4 years of experience. What defines me is using my passion,
+  skills and experience along with the ability to learn fast in order to bring quality results to
+  the table.
+  <br>
+  <br>
+  👀 Currently looking for a career reconversion into Web Development.
+</div>
 
 <!-- - 👋 Hi, I’m @RazvanCretu
 - 👀 I’m interested in Web Development, Data Engineering and remote jobs only.
