@@ -9,6 +9,7 @@
 
 ## Bio
 
+<br>
 <div align="center">
   I'm a self-taught Web Developer and Data Engineer with 4 years of experience. What defines me is using my passion,
   skills and experience along with the ability to learn fast in order to bring quality results to
@@ -17,6 +18,7 @@
   <br>
   👀 Currently looking for a career reconversion into Web Development.
 </div>
+<br>
 
 <!-- - 👋 Hi, I’m @RazvanCretu
 - 👀 I’m interested in Web Development, Data Engineering and remote jobs only.
@@ -27,7 +29,8 @@
 ## Technologies
 
 <!-- **Programming Langauges:** -->
-
+<br>
+<br>
 <div align="center">
   <a href="https://www.python.org/">
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" />
@@ -78,9 +81,11 @@
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" />
   </a>
 </div>
+<br>
 
 ## Let's connect
 
+<br>
 <div align="center">
   <table>
     <tbody>
@@ -104,9 +109,11 @@
     </tbody>
   </table>
 </div>
+<br>
 
 ## Statistics
 
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=770" />  
   <a href="#">
@@ -116,6 +123,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" />
   </a>
 </div>
+<br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
