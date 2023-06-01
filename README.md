@@ -29,7 +29,7 @@
 ## Technologies
 
 <!-- **Programming Langauges:** -->
-<br>
+
 <br>
 <div align="center">
   <a href="https://www.python.org/">
@@ -109,7 +109,6 @@
     </tbody>
   </table>
 </div>
-<br>
 
 ## Statistics
 
