@@ -96,6 +96,20 @@ the table.
   </tbody>
 </table>
 
+## Statistics
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_rank=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=399" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!---
 RazvanCretu/RazvanCretu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
