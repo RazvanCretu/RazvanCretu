@@ -108,12 +108,12 @@
 ## Statistics
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=770" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=770" />  
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
   </a>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" />
   </a>
 </div>
 
