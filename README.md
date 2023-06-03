@@ -119,9 +119,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RazvanCretu&theme=dark&hide_border=true&layout=compact&langs_count=10" />
   </a>
-<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RazvanCretu" /> -->
 </div>
 <br>
 
