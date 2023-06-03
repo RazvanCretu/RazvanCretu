@@ -115,7 +115,7 @@
 <br>
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_rank=true" />
   </a>
   <a href="#">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanCretu&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=dark&hide_border=true" /> -->
