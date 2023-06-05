@@ -38,6 +38,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
   </a>
+  <a href="https://webpack.js.org/">
+    <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" />
+  </a>
   <a href="https://react.dev/">
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
   </a>
