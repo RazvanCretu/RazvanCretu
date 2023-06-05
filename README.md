@@ -122,8 +122,10 @@
   </a>
   <a href="#statistics">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RazvanCretu&theme=dark&hide_border=true&layout=compact&langs_count=10&custom_title=Most%20used%20languages&hide=other" />
-  </a href="#statistics">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=770" />
+  </a>
+  <a href="#statistics">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=770" />
+  </a>
 </div>
 <br>
 
