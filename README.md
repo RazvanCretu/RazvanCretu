@@ -36,7 +36,7 @@
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" />
   </a>
   <a href="https://www.djangoproject.com/">
-    <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" />
+    <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
