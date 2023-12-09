@@ -120,6 +120,11 @@
 
 <br>
 <div align="center">
+  <a href="https://wakatime.com/@89a49833-2dab-4166-b2b7-cba5f250bbd0">
+    <img src="https://wakatime.com/badge/user/89a49833-2dab-4166-b2b7-cba5f250bbd0.svg" alt="Total time coded since Jun 1 2023" />
+  </a>
+</div>
+<div align="center">
   <a href="#statistics">
     <img src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_rank=true&count_private=true" />
   </a>
