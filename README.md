@@ -129,7 +129,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RazvanCretu&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide_rank=true&count_private=true" />
   </a>
   <a href="#statistics">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RazvanCretu&theme=dark&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages%20(%207%20Days%20)&hide=other" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RazvanCretu&theme=dark&hide_border=true&layout=compact&custom_title=Most%20Used%20Languages%20(%207%20Days%20)&hide=other" />
   </a>
   <a href="#statistics">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=RazvanCretu&theme=dark&hide_border=true&card_width=770" />
