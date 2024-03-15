@@ -78,7 +78,7 @@
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" />
   </a>
   <a href="https://aws.amazon.com/">
-    <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" />
+    <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" />
   </a>
   <a href="https://code.visualstudio.com/">
     <img height="46" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
